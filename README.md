@@ -261,3 +261,11 @@ Classification report memberikan informasi terperinci tentang performa model pad
 
 Visualisasi model Decision Tree menggunakan plot_tree memberikan representasi grafis dari struktur pohon keputusan. Setiap node pada pohon mewakili suatu keputusan atau prediksi berdasarkan nilai fitur tertentu.
 ```
+```bash
+Penyebaran
+```
+```bash
+Penyebaran
+
+https://dtreeuas.streamlit.app/
+```
