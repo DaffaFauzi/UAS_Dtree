@@ -14,7 +14,6 @@ from sklearn.tree import DecisionTreeClassifier
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
-drug_model = pickle.load(open('drug_model.sav','rb'))
 data = pd.read_csv('drug200.csv')
 
 st.title('Klasifikasi Jenis Obat')
